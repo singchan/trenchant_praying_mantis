@@ -3,7 +3,13 @@ layout: category_index
 title: Writing
 permalink: /writing/
 category_name: writing
+
 ---
+xxxx
+
+![2019-09-03-830037.jpg](trenchant_praying_mantis/gh-pages/assets/2019-09-03-830037.jpg)
+
+zzzz
 
 <!--
 
